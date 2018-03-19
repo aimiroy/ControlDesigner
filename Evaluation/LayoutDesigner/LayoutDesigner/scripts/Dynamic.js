@@ -533,7 +533,8 @@ function validateLabel()
         }
 
     });
-    var re = /^[A-Za-z]+$/;
+   // var re = /^[A-Za-z]+$/;
+    var re = /^[a-zA-Z ]*$/;
     if (!(re.test(document.getElementById("txtLabel").value)))
     {
         alert('Invalid Label! Label cannot contain numbers and Spaces.');
