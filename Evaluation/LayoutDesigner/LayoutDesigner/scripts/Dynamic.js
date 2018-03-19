@@ -412,9 +412,9 @@ function validateForm()
     }
     else if ($("#selectType option:selected").text() == "Dropdown")
     { 
-        for (var loop = 1; loop < count; loop++)
+        for (var loop = 1; loop <= count; loop++)
         {
-           // validation &= validateOption(loop);
+            validation &= validateOption(loop);
 
         }
         
@@ -500,7 +500,7 @@ function validateMin() {
 function validateOption(positionId)
 {
     var validation = true;
-    if (!(document.getElementById(positionId).value))
+    if (isEmpty($('#'+(positionId))))
     {
         validation = false;
         alert("Option cannot be empty! Option is empty in textbox number : "+positionId);
@@ -536,7 +536,7 @@ function validateLabel()
     var re = /^[A-Za-z]+$/;
     if (!(re.test(document.getElementById("txtLabel").value)))
     {
-        alert('Invalid Label! Label cannot contain numbers.');
+        alert('Invalid Label! Label cannot contain numbers and Spaces.');
         validation = false;
     }
     return validation;
