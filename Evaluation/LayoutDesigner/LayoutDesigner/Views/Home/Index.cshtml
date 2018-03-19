@@ -1,0 +1,151 @@
+﻿@model IEnumerable<LayoutDesigner.ViewModel.ControlInfo>
+@{
+    ViewBag.Title = "Customize Controls";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customize Controls</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+    <script type="text/javascript" src="~/scripts/Dynamic.js"></script>
+    <link href="~/Content/Tablestyle.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <p>
+        @if(Model.Count()>0)
+        {
+            @Html.ActionLink("Clear Layout", "ClearLayout","Home",null, new { @class = "btn btn-primary" })
+        }
+    
+    </p> 
+    <table id="tblControls" class="table table-bordered table-hover table-striped table-responsive success" cellpadding="0" cellspacing="0">
+        <thead>
+            <tr class="alert-success">
+                <th>Control Id</th>
+                <th>Label</th>
+                <th>Type</th>
+                <th>Attribute</th>
+                <th>Is Visible</th>
+                <th>Is Read-Only</th>
+                <th>Order</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-bordered">
+                    <td>@item.ControlId</td>
+                    <td>@item.Label</td>
+                    <td>@item.Type</td>
+                    <td id="attributeCell">
+                        @if (item.Type == "Textbox")
+                        {
+                            <label>MaxLength : </label>
+                            foreach (var attribute in item.ControlAttributes)
+                            {
+                                <span id="@(item.ControlId)maxlength">@attribute.AttributeValue</span>
+                            }
+
+                        }
+                        else if (item.Type == "TextArea")
+                        {
+                            <label>MaxLength : </label>
+                            foreach (var attribute in item.ControlAttributes)
+                            {
+                                <span id="@(item.ControlId)maxlength">@attribute.AttributeValue</span>
+                            }
+                        }
+                        else if (item.Type == "Number")
+                        {
+                            foreach (var attribute in item.ControlAttributes)
+                            {
+                                if (attribute.AttributeName == "max")
+                                {
+                                    <label>Max : </label>
+                                    <span id="@(item.ControlId)max">@attribute.AttributeValue</span>
+                                    <br/>
+                                }
+                                else if (attribute.AttributeName == "min")
+                                {
+                                    <label>Min : </label>
+                                    <span id="@(item.ControlId)min">@attribute.AttributeValue</span>
+                                }
+                                else
+                                {
+
+                                }
+
+                            }
+                        }
+                        else if (item.Type == "Dropdown")
+                        {
+                            <label>Option(s) : </label>
+                            var count = item.ControlAttributes.Count();
+                            var loop = 1;
+                            <span id="@(item.ControlId)count">@item.ControlAttributes.Count() </span><br />
+                            foreach (var attribute in item.ControlAttributes)
+                            {
+                                    <span id="@(item.ControlId)option@(loop)">@attribute.AttributeValue</span>
+                                    <br />
+                                    loop++;
+
+                            }
+                        }
+                        else
+                        {
+
+                        }
+                    </td>
+                    <td>@item.IsVisible</td>
+                    <td>@item.IsReadOnly</td>
+                    <td>@item.Order</td>
+                    <td><input type="button" value="Remove" onclick="Remove(this)" class="btn btn-warning" /><input type="button" value="Edit" class="btn btn-info" id="btnEdit" onclick="Edit(this)"/> </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr class="table-bordered">
+                <td><input type="text" id="txtControlId" class="form-control" readonly/></td>
+                <td><input type="text" id="txtLabel" class="form-control"/></td>
+                <td><select id="selectType" class="form-control"><option>Textbox</option><option>Number</option><option>Dropdown</option><option>Checkbox</option><option>TextArea</option></select></td>
+                <td>
+                <div id="Textbox">
+                <label>MaxLength</label>       <input type="number" id="txtMaxLength" class="form-control" />
+                </div>
+                <div id="Number">
+                 <label>Min</label>   <input type="number" id="txtMin" class="form-control" />
+                 <label>Max</label>   <input type="number" id="txtMax" class="form-control" />
+                </div>
+                <div id="Dropdown">
+                    <label>Option Text</label>  <button id="btnMore"><i class="glyphicon-plus alert-danger"></i></button>
+                    <input type="text" id="1" class="form-control" />
+                    
+                </div>
+                <div id="TextArea">
+                    <label>MaxLength</label> <input type="number" id="txtAreaMaxLength" class="form-control" />
+                </div>
+                </td>
+                <td><input type="checkbox" id="chkVisible" value="yes" class="checkbox"/></td>
+                <td><input type="checkbox" id="chkReadOnly" value="yes" class="checkbox"/></td>
+                <td><input type="number" id="txtOrder" class="form-control"/></td>
+                <td><input type="button" id="btnAdd" value="Add" class="btn btn-danger"/></td>
+            </tr>
+        </tfoot>
+    </table>
+    <br />
+    <input type="button" id="btnSave" value="Next Page" class="btn btn-block btn-success" style="float:right;"/>
+    <br/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+    <script type="text/javascript">
+        $('#Textbox').show();
+        $('#Number').hide();
+        $('#Dropdown').hide();
+        $('#TextArea').hide();
+       
+        </script>
+</body>
+</html>

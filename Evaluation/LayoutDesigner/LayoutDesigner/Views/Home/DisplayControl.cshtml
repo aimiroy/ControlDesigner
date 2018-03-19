@@ -1,0 +1,225 @@
+﻿@model List<LayoutDesigner.ViewModel.ControlInfo>
+@using System.Linq;
+@using System.Collections.Generic;
+@{
+    ViewBag.Title = "DisplayControl";
+}
+<h2 style="align-self:center">Custom Layout</h2>
+@Html.ActionLink("Create New Layout", "Index", "Home", null, new { @class = "btn btn-primary" })
+<br />
+@using (Html.BeginForm("DisplayControl", "Home", FormMethod.Post))
+            {
+
+                foreach (var item in Model)
+                {
+                    switch (item.Type)
+                    {
+                        case "Textbox":
+                            var maxlength="0";
+                            foreach (var attribute in item.ControlAttributes)
+                            {
+                                maxlength=@attribute.AttributeValue;
+                            }
+                            if (@item.IsVisible)
+                            {
+                       <label class="control-label col-md-2">@item.Label </label>
+                    if (@item.IsReadOnly)
+                    {
+                        
+                            <input type="text" name=@item.ControlId style="visibility:visible" readonly id=@item.ControlId class="form-control" value=@item.Value/>
+                        }
+                        else
+                        {
+                            <input type="text" name=@item.ControlId style="visibility:visible" id=@item.ControlId class="form-control" value=@item.Value required maxlength="@(maxlength)"/>
+                        }
+                    }
+                    else
+                    {
+                        <label class="control-label col-md-2" style="visibility:hidden">@item.Label</label>
+                        <input type="text" id=@item.ControlId name=@item.ControlId style="visibility:hidden" value=@item.Value />
+                }
+
+
+                break;
+
+            case "Number":
+                var max = "0";
+                var min = "0";
+                foreach (var attribute in item.ControlAttributes)
+                {
+                    if (@attribute.AttributeName=="max")
+                    {
+                        max = @attribute.AttributeValue;
+                    }
+                    if (@attribute.AttributeName == "min")
+                    {
+                        min = @attribute.AttributeValue;
+                    }
+                }
+
+                if (@item.IsVisible)
+                {
+                        <label class="control-label col-md-2">@item.Label</label>
+                        if (@item.IsReadOnly)
+                        {
+                            <input type="number" name=@item.ControlId style="visibility:visible" id=@item.ControlId readonly class="form-control" value=@item.Value />
+                        }
+                        else
+                        {
+                            <input type="number" name=@item.ControlId style="visibility:visible" id=@item.ControlId class="form-control" value=@item.Value required max="@(max)" min="@(min)"/>
+                        }
+
+                    }
+                    else
+                    {
+                        <label class="control-label col-md-2" style="visibility:hidden">@item.Label</label>
+                        <input type="number" name=@item.ControlId style="visibility:hidden" id=@item.ControlId value=@item.Value />
+                            }
+                            break;
+
+                        case "Dropdown":
+                            List<string> options=new List<string>() ;
+                            
+                            if (@item.IsVisible)
+                            {
+                        <label class="control-label col-md-2">@item.Label</label>
+                        if (@item.IsReadOnly)
+                        {
+                            <select id=@item.ControlId name=@item.ControlId style="visibility:visible" disabled class="form-control">
+                                @foreach (var attribute in item.ControlAttributes)
+                                {
+                                    <option>@attribute.AttributeValue</option>
+                                }
+                            </select>
+                        }
+                        else
+                        {
+                            <select id=@item.ControlId name=@item.ControlId style="visibility:visible" class="form-control">
+                                @foreach (var attribute in item.ControlAttributes)
+                                {
+                                <option>@attribute.AttributeValue</option>
+                                }
+                            </select>
+                        }
+
+
+                    }
+                    else
+                    {
+                        <label class="control-label col-md-2" style="visibility:hidden">@item.Label</label>
+                        <select id=@item.ControlId name=@item.ControlId style="visibility:hidden">
+                            @foreach (var attribute in item.ControlAttributes)
+                            {
+                                <option>@attribute.AttributeValue</option>
+                            }
+                        </select>
+                    }
+                    break;
+
+                case "Checkbox":
+                    if (@item.IsVisible)
+                    {
+                        <label class="control-label col-md-2">@item.Label</label>
+                        if (@item.IsReadOnly)
+                        {
+                            <input type="checkbox" name=@item.ControlId style="visibility:visible" id=@item.ControlId readonly class="checkbox" value=@item.Value />
+                        }
+                        else
+                        {
+                            <input type="checkbox" name=@item.ControlId style="visibility:visible" id=@item.ControlId class="checkbox" value=@item.Value />
+                        }
+
+                    }
+                    else
+                    {
+                        <input type="checkbox" name=@item.ControlId style="visibility:hidden" id=@item.ControlId value=@item.Value />
+                }
+                break;
+
+            case "TextArea":
+                var areaMaxLength = "0";
+                foreach (var attribute in item.ControlAttributes)
+                {
+                    areaMaxLength = @attribute.AttributeValue;
+                }
+                if (@item.IsVisible)
+                {
+                        <label class="control-label col-md-2">@item.Label</label>
+                        if (@item.IsReadOnly)
+                        {
+                            <textarea style="visibility:visible" name=@item.ControlId id=@item.ControlId readonly class="form-control" value=@item.Value></textarea>
+                        }
+                        else
+                        {
+                            <textarea style="visibility:visible" name=@item.ControlId id=@item.ControlId class="form-control" value=@item.Value required maxlength="@(areaMaxLength)"></textarea>
+                        }
+
+                    }
+                    else
+                    {
+                        <label class="control-label col-md-2" style="visibility:hidden" value=@item.Value>@item.Label</label>
+                        <textarea id=@item.ControlId name=@item.ControlId style="visibility:hidden"></textarea>
+                    }
+                    break;
+            }
+            <br />
+        }
+        <input type="submit" value="Submit" class="btn btn-primary" style="margin-left:350px"/>
+        <input type="button" value="Summary" class="btn btn-primary" id="btnSummary"/>
+}
+ 
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+    <script type="text/javascript">
+
+        var TeamDetailPostBackURL = '/Home/DisplaySummary';
+    $(function () {
+        $("#btnSummary").click(function () {
+            debugger;  
+            var $buttonClicked = $(this);
+            var options = { "backdrop": "static", keyboard: false };
+            $.ajax({
+                type: "GET",
+                url: TeamDetailPostBackURL,
+                contentType: "application/json; charset=utf-8",
+                datatype: "json",
+                success: function (data) {
+                    debugger;
+                    $('#myModalContent').html(data);
+                    $('#myModal').modal(options);
+                    $('#myModal').modal('show');
+
+                },
+                error: function () {
+                    alert("Dynamic content load failed! Submit Data to get Summary.");
+                }
+            });
+        });
+
+        $("#closbtn").click(function () {
+            $('#myModal').modal('hide');
+        });
+    });
+
+    </script>
+
+
+}
+
+<div id='myModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent'>            
+            </div>
+        </div>
+    </div>
+</div>
+
+  
+

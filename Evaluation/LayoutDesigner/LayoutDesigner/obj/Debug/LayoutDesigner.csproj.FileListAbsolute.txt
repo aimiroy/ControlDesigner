@@ -1,0 +1,900 @@
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Buffers.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.Primitives.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+C:\Users\Exp\Documents\Evaluation\Layout-Designer\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Buffers.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.Primitives.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+C:\Users\Exp\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyModel.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Buffers.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Collections.Immutable.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.Primitives.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.TypeConverter.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Reflection.Metadata.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Buffers.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.Primitives.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\Omu.AwesomeMvc.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Numerics.Vectors.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Text.Encodings.Web.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+C:\Users\Exp\Documents\Evaluation\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
